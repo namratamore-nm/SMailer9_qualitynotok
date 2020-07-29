@@ -1,2 +1,2 @@
 # Mailer\
-https://namratamore-nm.github.io/Mailer_prebook/
+https://namratamore-nm.github.io/Mailer_acceptance/
